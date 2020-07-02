@@ -1,0 +1,43 @@
+.nav-link {
+       color: white !important;
+}
+.nav-link:hover {
+	color: lightgray !important;
+}
+header {
+	background-image: url('../images/simple-codelines.svg');
+	    background-position: center 10%;
+    background-size: cover;
+    background-position: center;
+    background-color: #2b3137;
+    color: lightgray;
+}
+.font-weight-bold {
+    font-weight: 500!important;
+    font-size: 65px;
+    padding-left: 30px;
+}
+.para {
+	font-weight: 500;
+	font-size: 20px;
+	    padding: 0 40px;
+	    margin-bottom: 2rem;
+}
+.para span {
+	color: white;
+  text-decoration: underline;
+  text-decoration-color: gray;
+
+}
+.para span:hover {
+	color: white;
+  transition: 0.1s;
+  text-decoration-color: white;
+}
+.f-weight{
+	font-weight: 500;
+}
+.form-p {
+	font-size: 12px;
+	font-weight: 500;
+}
